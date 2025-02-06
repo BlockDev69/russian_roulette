@@ -21,7 +21,7 @@ Le but est simple : choisissez un nombre entre 1 et 6. Si vous tombez sur le mê
 1. Clonez ce repo (ou téléchargez-le, si vous êtes du genre à faire les choses à l'ancienne).
 2. Installez `colorama`, `art` et `termcolor` pour que le terminal soit joli (parce que oui, on aime le style) :
    ```bash
-   pip install colorama art termcolor
+   pip install -r requirements.txt
    ```
 3. Lancez le script :
    ```bash
